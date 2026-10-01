@@ -1,0 +1,70 @@
+---
+title: "MAT290 - Syllabus - Fall 2026"
+output: html_document
+---
+
+<div id="main-content" tabindex="-1"></div>
+
+<header id="header">
+<div>
+<h1 class="header-title">MAT290: Course Syllabus</h1>
+<div class="header-subtitle">Advanced Engineering Mathematics</div>
+<div class="header-term">Fall 2026 &middot; University of Toronto</div>
+</div>
+<div id="header-image"><img src="images/complex-plane.svg" alt="A point on the complex unit circle" width="190" height="156"></div>
+</header>
+
+<p class="note">The <a href="https://www.control.utoronto.ca/people/profs/maggiore/MAT290F.php"><strong>official Fall 2026 syllabus</strong></a> governs this course. Consult it for complete policies, all lecture sections and tutorial room changes.</p>
+
+::: {#sylassessment .sec}
+
+## Assessment Policies
+
+<ul class="policy-list">
+<li><strong>Quiz aids:</strong> non-programmable calculator only; necessary reference tables are supplied.</li>
+<li><strong>Regrades:</strong> request through Quercus within three working days of release, identifying a marking error.</li>
+<li><strong>Missed quizzes:</strong> no make-ups. With an approved petition, the first missed quiz receives the average of completed quizzes; later approved absences transfer the missed quiz's weight to the final.</li>
+<li><strong>Missed final:</strong> petition for a deferred examination.</li>
+</ul>
+
+<p><a href="index.html#coursework">Assessment weights and quiz dates</a></p>
+
+:::
+
+
+::: {#syltentsch .sec}
+
+## Course Outline
+
+1. Complex numbers and elementary complex functions
+2. Ordinary differential equations
+3. Laplace transform
+4. Complex functions and analyticity
+5. Contour integration
+6. Complex series
+7. Residue theory and inverse Laplace transformation
+
+<p><a href="index.html#schedule">Readings and homework for all 36 lectures</a></p>
+
+:::
+
+
+::: {#syltextbook .sec}
+
+## Readings and Preparation
+
+Use **Zill, 7th edition**, together with the course notes listed on the <a href="index.html#materials">materials page</a>. Work through the assigned problems before tutorial. The ODE unit uses separate notes, whose section numbers and exercises are identified explicitly in the schedule.
+
+:::
+
+
+::: {#sylpolicies .sec}
+
+## University Policies
+
+Refer to the <a href="https://www.control.utoronto.ca/people/profs/maggiore/MAT290F.php">official syllabus</a> for academic integrity, accessibility and accommodation requirements.
+
+:::
+
+
+<p><a href="index.html">Return to the course page</a></p>

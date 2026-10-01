@@ -1,0 +1,32 @@
+name: "MAT290-UTSG-F-26"
+navbar:
+  title: "MAT290"
+  left:
+    - text: "Schedule"
+      href: index.html#schedule
+    - text: "Coursework"
+      href: index.html#coursework
+    - text: "Materials"
+      href: index.html#materials
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Quercus"
+      href: https://q.utoronto.ca/courses/469114
+output_dir: "docs"
+exclude:
+  - README.txt
+  - build.py
+  - tools
+  - personal-site-teaching-entry.txt
+  - THIRD-PARTY-NOTICES.txt
+output:
+  html_document:
+    self_contained: false
+    theme: default
+    highlight: null
+    mathjax: null
+    css: css/style.css
+    includes:
+      in_header: includes/head.html
+      before_body: includes/skip-link.html
+      after_body: includes/footer.html

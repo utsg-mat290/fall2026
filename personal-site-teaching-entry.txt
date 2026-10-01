@@ -1,0 +1,8 @@
+For an existing personal-site deployment at /mat290/fall2026/, add this entry
+near the top of _pages/teaching.md (merge with an existing Fall 2026 heading):
+
+  - Fall 2026:
+    - [MAT290H1](/mat290/fall2026/): Advanced Engineering Mathematics, LEC0101, UofT St. George, Fall 2026. Co-instructed with Prof. Nachman and Prof. Maggiore.
+
+If you use a separate course repository, substitute its actual GitHub Pages
+URL for /mat290/fall2026/ after deployment.

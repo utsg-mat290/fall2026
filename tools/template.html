@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$title$</title>
+  <link rel="stylesheet" href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  $head$
+</head>
+<body>
+$skiplink$
+$navbar$
+<main class="container-fluid main-container">
+$body$
+</main>
+$footer$
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script>
+document.querySelectorAll('#course-nav a').forEach(function (link) {
+  link.addEventListener('click', function () {
+    if (window.jQuery) jQuery('#course-nav').collapse('hide');
+  });
+});
+</script>
+</body>
+</html>
